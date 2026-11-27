@@ -5,3 +5,5 @@ Aplicación para Android que calcula semillas de pokeMMO
 
 Si quieres me puedes seguir en twitch :D
 https://www.twitch.tv/pipen_t
+
+**Dentro de la app se le ha cambiado el nombre de DrZanama a Dr. Baya para llegar a subirlo a la PlayStore en algun futuro**
